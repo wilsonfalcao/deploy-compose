@@ -1,5 +1,5 @@
 #temporary .env
-.env.example*
+**/.env.example*
 
 #temporary docker file
-docker-compose*.yml
+**/docker-compose*.yml
